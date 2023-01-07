@@ -1,0 +1,14 @@
+// -- 07/01/2023 17:14:42 -- //
+// -- 07/01/2023 17:15:12 -- //
+cd 
+cd Documents\
+mkdir 'scilab'
+cd scilab\
+diary('polecenia')
+log2(32)
+log2(1/81)/log2(3)
+log2(8)/log2(4)
+(log2(3/5)/log2(3)) + (log2(25/9)/log2(9))
+10^(-log10(8))
+10^(1-log10(2))
+savehistory('historia')
